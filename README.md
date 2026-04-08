@@ -19,6 +19,7 @@ I build at the intersection of AI and enterprise software — from production MC
 - **[SunShade](https://github.com/popand/sun-shade)** → Real-time UV monitoring and sun safety app with Apple WeatherKit
 - **[ZenTimer](https://github.com/popand/zentimer)** → Minimalist iOS timer for deep work and meditation
 - **[Ledgr](https://github.com/popand/ledgr)** → AI-powered expense tracking with receipt scanning
+- **[Veriscor](https://veriscor.io/)** → Document Forgery Detection API
 
 ## 🛠 Tech Stack
 
