@@ -14,12 +14,15 @@ I build at the intersection of AI and enterprise software — from production MC
 
 ## 🏆 Key Projects
 
+- **[Veriscor](https://veriscor.io/)** → Document Forgery Detection API
+- **[CurrKit](https://currkit.vercel.app/)** → AI course content generator — outlines to scripts, slides, and quizzes
+- **[ScopeAudit](https://scopeaudit.vercel.app/)** → Claude Code governance — policy violations, spend caps, and SOC 2 audit reports
+- **[Vettly](https://vettly-blond.vercel.app/)** → AI-powered resume fraud detection for recruiters
 - **[AppleMusicMCP](https://github.com/popand/AppleMusicMCP)** → MCP server that lets Claude search, manage playlists, and control Apple Music
 - **[GitStreak](https://github.com/popand/gitstreak)** → Gamify your GitHub commits — streaks, achievements, and XP on iOS
 - **[SunShade](https://github.com/popand/sun-shade)** → Real-time UV monitoring and sun safety app with Apple WeatherKit
 - **[ZenTimer](https://github.com/popand/zentimer)** → Minimalist iOS timer for deep work and meditation
 - **[Ledgr](https://github.com/popand/ledgr)** → AI-powered expense tracking with receipt scanning
-- **[Veriscor](https://veriscor.io/)** → Document Forgery Detection API
 
 ## 🛠 Tech Stack
 
