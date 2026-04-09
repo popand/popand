@@ -18,6 +18,8 @@ I build at the intersection of AI and enterprise software — from production MC
 - **[CurrKit](https://currkit.vercel.app/)** → AI course content generator — outlines to scripts, slides, and quizzes
 - **[ScopeAudit](https://scopeaudit.vercel.app/)** → Claude Code governance — policy violations, spend caps, and SOC 2 audit reports
 - **[Vettly](https://vettly-blond.vercel.app/)** → AI-powered resume fraud detection for recruiters
+- **[ScanPII](https://scanpii.vercel.app/)** → PII detection API for LLM prompts — GDPR-ready audit trails
+- **[ATScan](https://atscan-steel.vercel.app/)** → ATS compatibility scorer — keyword gaps and resume fixes in seconds
 - **[AppleMusicMCP](https://github.com/popand/AppleMusicMCP)** → MCP server that lets Claude search, manage playlists, and control Apple Music
 - **[GitStreak](https://github.com/popand/gitstreak)** → Gamify your GitHub commits — streaks, achievements, and XP on iOS
 - **[SunShade](https://github.com/popand/sun-shade)** → Real-time UV monitoring and sun safety app with Apple WeatherKit
@@ -46,7 +48,7 @@ I build at the intersection of AI and enterprise software — from production MC
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/popand)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrei.pop@alethiaintel.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:popand@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/popand)
 
 ---
