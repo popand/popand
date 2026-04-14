@@ -14,6 +14,7 @@ I build at the intersection of AI and enterprise software — from production MC
 
 ## 🏆 Key Projects
 
+- **[Advisor Strategy](https://github.com/popand/advisor-strategy)** → Pattern for decoupling model dependency and cost reduction
 - **[Veriscor](https://veriscor.io/)** → Document Forgery Detection API
 - **[CurrKit](https://currkit.vercel.app/)** → AI course content generator — outlines to scripts, slides, and quizzes
 - **[ScopeAudit](https://scopeaudit.vercel.app/)** → Claude Code governance — policy violations, spend caps, and SOC 2 audit reports
