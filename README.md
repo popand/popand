@@ -14,6 +14,8 @@ I build at the intersection of AI and enterprise software — from production MC
 
 ## 🏆 Key Projects
 
+- **[AfterMatters](https://www.aftermatters.ca/)** → Canada's first AI-driven estate preparation platform — helping families avoid months of paperwork after loss
+- **[PropDoc](https://www.getpropdoc.com/)** → Property maintenance platform for homeowners — track home assets, schedule recurring tasks, and calculate a health score across HVAC, plumbing, electrical, and more
 - **[Advisor Strategy](https://github.com/popand/advisor-strategy)** → Pattern for decoupling model dependency and cost reduction
 - **[Veriscor](https://veriscor.io/)** → Document Forgery Detection API
 - **[CurrKit](https://currkit.vercel.app/)** → AI course content generator — outlines to scripts, slides, and quizzes
